@@ -49,4 +49,7 @@
 
 ![Dharam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dharamghevariya&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 -->
+[![Linkedin: Akshat](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dharam-ghevariya-0b2bb7236/)](https://www.linkedin.com/in/dharam-ghevariya-0b2bb7236/)
+[![Twitter: Akshat](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/dghevariya27)](https://twitter.com/dghevariya27)
+[![Gmail: Akshat](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:dharamghevariya36@gmail.com)](mailto:dharamghevariya36@gmail.com)
 
